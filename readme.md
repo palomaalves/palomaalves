@@ -2,6 +2,16 @@
 
 👋Olá, me chamo **Paloma Alves**, sou estudante de ciências da computação, com interesse na área da Data Science e programação em Python.
  
+  <div style="width: 100%; overflow: hidden;">
+     <div style="width: 600px; float: left;">
+       <a href="https://github.com/palomalves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=palomaalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+     </div>
+     <div style="margin-left: 620px;">
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomaalves&layout=compact&langs_count=16&theme=dracula"/>
+      </div>
+</div>
+ 
  <div style="display: inline_block">
   <a href="https://github.com/palomalves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=palomaalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
