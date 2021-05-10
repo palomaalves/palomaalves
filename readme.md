@@ -1,16 +1,12 @@
 ## Bem vindo ao meu Github: 
 
 👋Olá, me chamo **Paloma Alves**, sou estudante de ciências da computação, com interesse na área da Data Science e programação em Python.
- 
- <div class="image123">
-    <div class="imgContainer" style="float:left">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api?username=palomaalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </div>
-    <div class="imgContainer" style="float:left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomaalves&layout=compact&langs_count=16&theme=dracula"/>
-    </div>
-</div>
- 
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=palomaalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="100"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomaalves&layout=compact&langs_count=16&theme=dracula" width="100"/>
+</p>
+
  <div class="row" style="display:flex">
   <div class="column" style="flex:33.33%">
    <img src="https://github-readme-stats.vercel.app/api?username=palomaalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
