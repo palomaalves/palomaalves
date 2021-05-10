@@ -1,5 +1,5 @@
 ## Bem vindo ao meu Github: 
-
+<a href = "mailto: palomaalves@gmail.com">
 👋Olá, me chamo **Paloma Alves**, sou estudante de ciências da computação, com interesse na área da Data Science e programação em Python.
 
   ## 🛠 Habilidades
@@ -14,7 +14,7 @@
 </p>
 </div>
 
-## 🛠 GitHub Status
+## 📊 GitHub Status
 <br>
  <div class="row" style="display:flex">
   <div class="column" style="flex:33.33%">
@@ -25,17 +25,12 @@
   </div>
 </div>
  
- 
- 
 <div style="display: inline_block"><br>
-  
-
-
   
   ## ✅ Entre em contato!
   
   <div>
-  <a href = "mailto: contatopalomaalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto: palomaalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paloma-alves1006" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
  </div>
