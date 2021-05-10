@@ -1,16 +1,8 @@
-<img align='right' src="https://user-images.githubusercontent.com/60614988/117733097-5eadf880-b1c7-11eb-9afc-ec4cded2abd8.png" width="350">
+<img align='right' src="https://user-images.githubusercontent.com/60614988/117733252-9e74e000-b1c7-11eb-95bc-7362d16ade8d.png" width="350">
 
 ## Bem vindo ao meu Github: 
 
 👋Olá, me chamo **Paloma Alves**, sou estudante de ciências da computação, com interesse na área da Data Science e programação em Python.
-
-## 💬 Contato
-  
-  <div align="center">
-  <a href = "mailto: palomaalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paloma-alves1006" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
- </div>
 
   ## 🛠 Habilidades
 <br>
@@ -27,7 +19,6 @@
 </p>
 </div>
 
-
 <br/>
  <p align="left">
   <br>
@@ -37,4 +28,10 @@
   <br>
 </p>
  
-<div style="display: inline_block"><br>
+## 💬 Contato
+  <br>
+  <div>
+  <a href = "mailto: palomaalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/paloma-alves1006" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+ </div>
