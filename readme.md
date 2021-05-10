@@ -4,8 +4,8 @@
  
  <div style="display: block">
   <a href="https://github.com/palomalves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=palomaalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomaalves&layout=compact&langs_count=16&theme=dracula"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=palomaalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomaalves&layout=compact&langs_count=16&theme=dracula"/>
 </div>
  
 <div style="display: inline_block"><br>
