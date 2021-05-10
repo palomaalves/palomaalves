@@ -2,6 +2,20 @@
 
 👋Olá, me chamo **Paloma Alves**, sou estudante de ciências da computação, com interesse na área da Data Science e programação em Python.
 
+  ## 🛠 Habilidades
+<br>
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/C%20-%2314354C.svg?&style=for-the-badge&logo=C&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
+  <br>
+</p>
+</div>
+
+## 🛠 GitHub Status
+<br>
  <div class="row" style="display:flex">
   <div class="column" style="flex:33.33%">
    <img src="https://github-readme-stats.vercel.app/api?username=palomaalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -15,16 +29,6 @@
  
 <div style="display: inline_block"><br>
   
-  ## 🛠 Habilidades
-<br>
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/C%20-%2314354C.svg?&style=for-the-badge&logo=C&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
-  <br>
-</p>
 
 
   
