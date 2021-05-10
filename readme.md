@@ -1,5 +1,5 @@
 ## Bem vindo ao meu Github: 
-<a href = "mailto: palomaalves@gmail.com">
+
 👋Olá, me chamo **Paloma Alves**, sou estudante de ciências da computação, com interesse na área da Data Science e programação em Python.
 
   ## 🛠 Habilidades
@@ -14,7 +14,7 @@
 </p>
 </div>
 
-## 📊 GitHub Status
+## 📊 Github Status
 <br>
  <div class="row" style="display:flex">
   <div class="column" style="flex:33.33%">
