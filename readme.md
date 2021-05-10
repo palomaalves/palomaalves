@@ -8,9 +8,9 @@
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="C" src="https://img.shields.io/badge/C%20-%2314354C.svg?&style=for-the-badge&logo=C&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=#4479A1"/>
-  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/microsoftsqlserver-323330?style=for-the-badge&logo=microsoftsqlserver&logoColor=#CC2927"/>
+  <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=blue"/>
+  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/microsoftsqlserver-323330?style=for-the-badge&logo=microsoftsqlserver&logoColor=red"/>
   <br>
 </p>
 </div>
