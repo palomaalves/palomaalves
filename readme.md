@@ -4,10 +4,10 @@
  
  <div class="row" style="display:flex">
   <div class="column" style="flex:33.33%">
-   <img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=palomaalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=palomaalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
   <div class="column" style="flex:33.33%">
-    <img style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomaalves&layout=compact&langs_count=16&theme=dracula"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomaalves&layout=compact&langs_count=16&theme=dracula"/>
   </div>
 </div>
  
