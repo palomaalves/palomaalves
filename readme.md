@@ -4,7 +4,7 @@
  
  <div class="image123">
     <div class="imgContainer" style="float:left">
-      <img src="https://github-readme-stats.vercel.app/api?username=palomaalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img height="100px" src="https://github-readme-stats.vercel.app/api?username=palomaalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </div>
     <div class="imgContainer" style="float:left">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomaalves&layout=compact&langs_count=16&theme=dracula"/>
