@@ -7,10 +7,12 @@
 <p align="center">
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img alt="C" src="https://img.shields.io/badge/C%20-%2314354C.svg?&style=for-the-badge&logo=C&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img alt="Power BI" src="https://img.shields.io/badge/Power BI-CC2927?style=for-the-badge&logo=power-bi&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/MS SQL Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/MS SQL Server-F2C811?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <br>
 </p>
 </div>
