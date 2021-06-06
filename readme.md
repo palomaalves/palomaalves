@@ -1,8 +1,8 @@
 <img align='right' src="https://user-images.githubusercontent.com/60614988/117733252-9e74e000-b1c7-11eb-95bc-7362d16ade8d.png" width="350">
 
 ## Bem vindo ao meu Github: 
-
-👋Olá, me chamo **Paloma Alves**, sou estudante de ciências da computação, com interesse na área da Data Science e programação em Python.
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Paloma Alves</h1>
+👋Sou estudante de ciências da computação com interesse na área da Data Science e programação em Python.
 
   ## 🛠 Habilidades
 <br>
