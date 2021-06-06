@@ -2,7 +2,7 @@
 
 ## Bem vindo ao meu Github: 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Paloma Alves</h1>
-👋Sou estudante de ciências da computação com interesse na área da Data Science e programação em Python.
+👋Sou estudante de Ciências da Computação com interesse na área da Data Science, Banco de Dados e Programação em Python.
 
   ## 🛠 Habilidades
 <br>
@@ -21,11 +21,11 @@
 
 <br/>
  <p align="left">
-  <br>
+<br>
 <div style="display: inline_block">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=palomaalves&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="davi-souza2001"/> 
  
- <hr>
+
  
  
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomaalves&layout=compact&langs_count=16&theme=dracula"/>
