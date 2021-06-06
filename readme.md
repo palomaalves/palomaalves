@@ -4,7 +4,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Paloma Alves</h1>
 👋Sou estudante de Ciências da Computação com interesse na área da Data Science, Banco de Dados e Programação em Python.
 
-  ## <h3> :rocket: &nbsp;Minhas Skills </h3>
+## <h2> :rocket: &nbsp;Ferramentas de Desenvolvimento </h2>
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+## <h3> :rocket: &nbsp;Minhas Skills </h3>
 <br>
 <p align="center">
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
