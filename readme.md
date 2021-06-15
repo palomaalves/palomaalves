@@ -8,7 +8,8 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-## <h3> :rocket: &nbsp;Minhas Skills </h3>
+## <h3 align="leftt"><img src= "https://camo.githubusercontent.com/7ace39e8049ac07a7352d06a989c178a723dfe8362aaf6e7f530bd0208753771/68747470733a2f2f7777772e6f626f6d64657669616a61722e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f5265637572736f735f696e7465726e65742e676966" width="40px"> My Skills</h3>
+
 <br>
 <p align="center">
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -22,24 +23,18 @@
   <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 	
-  <br>
-</p>
-</div>
 
-<br/>
- <p align="left">
+<p align="left">
 <br>
 <div style="display: inline_block">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=palomaalves&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="davi-souza2001"/> 
  
-
- 
- 
+  
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomaalves&layout=compact&langs_count=16&theme=dracula"/>
  
 </div>
 	   
-  <br>
+<br>
 </p>
  
 ## 💬 Contato
