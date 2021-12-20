@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Procuro explorar novas tecnologias e aprimorar minhas habilidades.
 - 🎓 &nbsp; Aprendendo sempre...
-- ✍️ &nbsp; Tenho como hobbie amar meu Dog e ajudar as pessoas.
+- ✍️ &nbsp; Tenho como hobbie passear com meu Dog Nino e ajudar as pessoas.
 
 ## <h2> :rocket: &nbsp;Ferramentas de Desenvolvimento </h2>
 
