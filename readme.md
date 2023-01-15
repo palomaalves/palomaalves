@@ -27,20 +27,6 @@
   <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 	
-
-<p align="left">
-<br>
-<div style="display: inline_block">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=palomaalves&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="davi-souza2001"/> 
- 
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomaalves&layout=compact&langs_count=16&theme=dracula"/>
- 
-</div>
-	   
-<br>
-</p>
- 
 ## 💬 Contato
   <br>
   <div>
