@@ -2,11 +2,11 @@
 
 ## Bem vindo ao meu Github: 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Paloma Alves</h1>
-👨🏻‍💻 &nbsp;Sou estudante de Ciências da Computação com interesse na área da Data Science, Banco de Dados e Programação em Python.
+👨🏻‍💻 &nbsp;Sou estudante de Ciências da Computação com interesse na área da Data Science, IA e Programação em Python.
 
 - 🤔 &nbsp; Procuro explorar novas tecnologias e aprimorar minhas habilidades.
 - 🎓 &nbsp; Aprendendo sempre...
-- ✍️ &nbsp; Tenho como hobbie passear com meu Dog Nino e ajudar as pessoas.
+- ✍️ &nbsp; Análise de Dados e Machine Learning são áreas de grande interesse.
 
 ## <h2> :rocket: &nbsp;Ferramentas de Desenvolvimento </h2>
 
